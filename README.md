@@ -1,5 +1,5 @@
 # Weather_app_py
-# Weather App ☀️🌧️❄️
+# Weather App
 
 A simple PyQt5 Weather Application that shows temperature, description, and emojis for real-time weather using the OpenWeatherMap API.
 
